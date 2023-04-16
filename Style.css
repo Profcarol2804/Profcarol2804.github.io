@@ -1,0 +1,29 @@
+body {
+ background-color: blue;
+ color: white;
+ font-family: verdana;
+ width: 100%;
+ margin: auto;
+
+}   
+
+
+.cabecalho {
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: spacebetween;
+
+
+}
+
+
+.cabecalho>div {
+
+width:100%; 
+
+}
+
+
+
+
